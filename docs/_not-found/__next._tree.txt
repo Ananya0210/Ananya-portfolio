@@ -1,0 +1,2 @@
+:HL["/Ananya_Portfolio/_next/static/chunks/e2afef7f437aef43.css","style"]
+0:{"buildId":"qGou84XQfpfhHquygV7cz","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
