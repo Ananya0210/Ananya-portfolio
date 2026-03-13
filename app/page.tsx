@@ -398,11 +398,12 @@ export default function Page() {
         <Card className="overflow-hidden">
           <div className="p-8">
             <div className="mx-auto h-52 w-52 overflow-hidden rounded-3xl">
-              <img
-                src="https://ananya0210.github.io/Ananya_Portfolio/profile.jpg"
-                alt="Ananya Sureshbabu"
-                className="h-full w-full object-cover"
-              />
+            <div className="mx-auto h-52 w-52 overflow-hidden rounded-3xl">
+            <img
+             src="/Ananya_Portfolio/profile.jpg"
+             alt="Ananya Sureshbabu"
+             className="h-full w-full object-cover"
+            />
             </div>
 
             <div className="mt-6 text-center">
