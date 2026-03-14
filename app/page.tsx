@@ -399,10 +399,11 @@ export default function Page() {
           <div className="p-8">
             <div className="mx-auto h-52 w-52 overflow-hidden rounded-3xl">
             <div className="mx-auto h-52 w-52 overflow-hidden rounded-3xl">
+            
             <img
-             src="/Ananya_Portfolio/profile.jpg"
-             alt="Ananya Sureshbabu"
-             className="h-full w-full object-cover"
+            src="/Ananya_Portfolio/profile.jpg"
+            alt="Ananya Sureshbabu"
+            className="h-full w-full object-cover"
             />
             </div>
 
