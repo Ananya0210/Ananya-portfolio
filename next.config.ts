@@ -7,8 +7,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: isProd ? "/Ananya_Portfolio" : "",
-  assetPrefix: isProd ? "/Ananya_Portfolio/" : "",
+  basePath: isProd ? "/Ananya-portfolio" : "",
+  assetPrefix: isProd ? "/Ananya-portfolio/" : "",
 };
 
 export default nextConfig;
